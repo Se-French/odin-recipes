@@ -1,0 +1,22 @@
+.main-page-title {
+    background-color: rgb(21, 129, 62);
+    color: white;
+    text-align: center;
+    font-size: 42px;
+}
+
+.page-titles {
+    color: rgb(8, 63, 31);
+    text-align: center;
+}
+
+#whole,
+.page-titles {
+    background-color:rgb(221, 248, 147);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
